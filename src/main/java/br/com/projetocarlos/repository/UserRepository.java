@@ -1,6 +1,6 @@
 package br.com.projetocarlos.repository;
 
-import br.com.projetocarlos.controlador.domain.User;
+import br.com.projetocarlos.dominio.User;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;

@@ -6,7 +6,7 @@
 package br.com.projetocarlos.servlets;
 
 import br.com.projetocarlos.service.UserService;
-import br.com.projetocarlos.controlador.domain.User;
+import br.com.projetocarlos.dominio.User;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.RequestDispatcher;

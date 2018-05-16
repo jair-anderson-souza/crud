@@ -5,7 +5,7 @@
  */
 package br.com.projetocarlos.service;
 
-import br.com.projetocarlos.controlador.domain.User;
+import br.com.projetocarlos.dominio.User;
 import br.com.projetocarlos.repository.UserRepository;
 import java.util.List;
 

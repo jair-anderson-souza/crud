@@ -1,4 +1,4 @@
-package br.com.projetocarlos.controlador.domain;
+package br.com.projetocarlos.dominio;
 
 import java.io.Serializable;
 

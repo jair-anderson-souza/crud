@@ -1,6 +1,6 @@
 package br.com.projetocarlos.filtros;
 
-import br.com.projetocarlos.controlador.domain.User;
+import br.com.projetocarlos.dominio.User;
 import java.io.IOException;
 import javax.servlet.Filter;
 import javax.servlet.FilterChain;
